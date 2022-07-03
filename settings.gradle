@@ -7,4 +7,6 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "MoneyHeist-Chars-Clone"
-include ':app'
+include ':ui'
+include ':data'
+include ':domain'

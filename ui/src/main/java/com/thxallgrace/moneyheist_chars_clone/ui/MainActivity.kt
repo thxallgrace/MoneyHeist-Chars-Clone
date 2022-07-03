@@ -1,4 +1,4 @@
-package com.thxallgrace.moneyheist_chars_clone
+package com.thxallgrace.moneyheist_chars_clone.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
